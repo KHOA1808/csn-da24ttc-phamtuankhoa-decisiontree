@@ -69,7 +69,7 @@ Sau đó mở notebook trong thư mục `src/`. Chi tiết xem thêm trong [setu
 
 | Tuần | Thời gian | Nội dung | Trạng thái |
 |---|---|---|---|
-| 1 | 12/10 – 25/10/2026 | Tìm tài liệu, cài môi trường, tạo repository | Đang thực hiện |
+| 1 | 12/10 – 25/10/2026 | Tìm tài liệu, cài môi trường, tạo repository | Hoàn thành |
 | 2 | 26/10 – 08/11/2026 | ID3, C4.5, CART, tham số; tính tay; chọn và tiền xử lý dữ liệu | Chưa bắt đầu |
 | 3 | 09/11 – 22/11/2026 | Huấn luyện, vẽ cây, thử cấu hình tham số | Chưa bắt đầu |
 | 4 | 23/11 – 06/12/2026 | Đánh giá, so sánh mô hình cơ sở, hoàn thiện báo cáo | Chưa bắt đầu |
