@@ -53,7 +53,7 @@ csn-da24ttc-phamtuankhoa-decisiontree/
 **Cách 2 – Chạy trên máy cá nhân:**
 
 ```bash
-git clone https://github.com/<tai-khoan>/csn-da24ttc-phamtuankhoa-decisiontree.git
+git clone https://github.com/KHOA1808/csn-da24ttc-phamtuankhoa-decisiontree.git
 cd csn-da24ttc-phamtuankhoa-decisiontree
 pip install -r requirements.txt
 jupyter notebook
