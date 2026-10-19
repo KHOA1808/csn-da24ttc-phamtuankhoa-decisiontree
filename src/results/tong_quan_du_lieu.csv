@@ -1,0 +1,4 @@
+Tập dữ liệu,Số mẫu,Số thuộc tính,Số lớp,Phân bố lớp,Giá trị thiếu
+Iris,150,4,3,"setosa: 50, versicolor: 50, virginica: 50",0
+Wine,178,13,3,"class_0: 59, class_1: 71, class_2: 48",0
+Breast Cancer,569,30,2,"benign: 357, malignant: 212",0

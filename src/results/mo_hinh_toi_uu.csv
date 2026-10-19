@@ -1,0 +1,4 @@
+Tập dữ liệu,Tham số tốt nhất,F1 CV (huấn luyện),Độ sâu,Số nút lá,Acc. huấn luyện,Acc. kiểm tra,Precision,Recall,F1
+Iris,"{'ccp_alpha': 0.0, 'criterion': 'gini', 'max_depth': 3, 'min_samples_leaf': 1}",0.9519352869352868,3,5,0.9809523809523809,0.9777777777777777,0.9791666666666666,0.9777777777777779,0.9777530589543938
+Wine,"{'ccp_alpha': 0.02, 'criterion': 'gini', 'max_depth': 3, 'min_samples_leaf': 1}",0.901025275333392,3,4,0.967741935483871,0.9629629629629629,0.9710144927536232,0.9629629629629629,0.9652406417112299
+Breast Cancer,"{'ccp_alpha': 0.0, 'criterion': 'entropy', 'max_depth': 3, 'min_samples_leaf': 10}",0.9294802123892916,3,7,0.964824120603015,0.9532163742690059,1.0,0.875,0.9333333333333333
