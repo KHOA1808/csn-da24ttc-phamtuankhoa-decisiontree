@@ -1,3 +1,2 @@
-# Báo cáo tiến độ
-
-Mỗi tuần một file, đặt tên theo dạng `tuan-XX.md`.
+   # Báo cáo tiến độ
+   Báo cáo tiến độ đồ án theo từng tuần.
