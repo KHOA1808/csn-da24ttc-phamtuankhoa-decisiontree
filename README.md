@@ -40,6 +40,8 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
+Notebook demo (chạy trên Colab): [mở demo](https://colab.research.google.com/github/KHOA1808/csn-da24ttc-phamtuankhoa-decisiontree/blob/main/src/demo_decision_tree.ipynb)
+
 ## Dữ liệu
 
 Dùng 3 tập dữ liệu công khai có sẵn trong scikit-learn (nguồn gốc từ kho UCI), không cần tải về:
