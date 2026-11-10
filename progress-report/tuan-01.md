@@ -16,7 +16,7 @@
 - Có danh sách tài liệu tham khảo ban đầu.
 
 ## 3. Khó khăn, vướng mắc
-- (Ghi nếu có)
+- Không có nhiều thời gian để làm một cách trơn chu.
 
 ## 4. Kế hoạch tuần tiếp theo (26/10 – 08/11/2026)
 - Tìm hiểu và so sánh các thuật toán ID3, C4.5, CART; các tham số chính của `DecisionTreeClassifier`.
