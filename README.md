@@ -54,7 +54,7 @@ Dùng 3 tập dữ liệu công khai có sẵn trong scikit-learn (nguồn gốc
 
 | Tuần | Thời gian | Công việc | Trạng thái |
 |---|---|---|---|
-| 1 | 12/10 - 25/10 | Tìm tài liệu, cài môi trường, tạo repository : Hoàn thành 
-| 2 | 26/10 - 08/11 | ID3, C4.5, CART, tính tay, chọn dữ liệu :  Hoàn thành 
-| 3 | 09/11 - 22/11 | Huấn luyện, vẽ cây, thử tham số : Hoàn thành 
-| 4 | 23/11 - 06/12 | Đánh giá, so sánh, hoàn thiện báo cáo : Đang làm 
+| 1 | 12/10 - 25/10 | Tìm tài liệu, cài môi trường, tạo repository | Hoàn thành |
+| 2 | 26/10 - 08/11 | ID3, C4.5, CART, tính tay, chọn dữ liệu | Hoàn thành |
+| 3 | 09/11 - 22/11 | Huấn luyện, vẽ cây, thử tham số | Hoàn thành |
+| 4 | 23/11 - 06/12 | Đánh giá, so sánh, hoàn thiện báo cáo | Đang làm |
